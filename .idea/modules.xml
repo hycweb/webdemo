@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hycweb_7.22demo/hycweb_7.22demo.iml" filepath="$PROJECT_DIR$/hycweb_7.22demo/hycweb_7.22demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webdemo.iml" filepath="$PROJECT_DIR$/webdemo.iml" />
+    </modules>
+  </component>
+</project>
+
